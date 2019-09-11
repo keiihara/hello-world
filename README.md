@@ -1,2 +1,5 @@
 # hello-world
-The first repository, means it's not second repository.
+The first repository
+
+Update:
+You can pull-request.
